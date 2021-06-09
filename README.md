@@ -58,3 +58,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 - [Must Know this this shortcuts keys || PC users के लिए बहुत ही important shortcut keys | 😎🚀](https://www.youtube.com/watch?v=ToSK7h-glMM)
 - [Must know shortcut key every pc user || कम से कम इतना तो पता होना चाहिए। 😎🚀](https://www.youtube.com/watch?v=eVyOro7_7cg)
 <!-- YOUTUBE:END -->
+
+<br/>
+<br/>
+
+---
+![Naseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naseemkhan7021&count_private=true&show_icons=true&hide_border=true)
+
+
