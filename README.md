@@ -52,9 +52,9 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [अपनी महत्वपूर्ण और private 🔏 फ़ाइल 📁 छुपाएं || Hide your important and private 🔏  file 📁](https://www.youtube.com/watch?v=0gTwGIm8aIk)
 - [अपने कंप्यूटर से किसी भी सॉफ़्टवेयर को अनइंस्टॉल करें || Uninstall any software from your computer](https://www.youtube.com/watch?v=RyVaO75d0Yw)
 - [अपने कंप्यूटर से Network को Disable या enable करें || Disable or enable the network from your PC](https://www.youtube.com/watch?v=yVJnFuzbDiM)
 - [Must Know this this shortcuts keys || PC users के लिए बहुत ही important shortcut keys | 😎🚀](https://www.youtube.com/watch?v=ToSK7h-glMM)
 - [Must know shortcut key every pc user || कम से कम इतना तो पता होना चाहिए। 😎🚀](https://www.youtube.com/watch?v=eVyOro7_7cg)
-- [Beginner to Advance cmd commands | make pro cmd user](https://www.youtube.com/watch?v=Lq4kh26Njnc)
 <!-- YOUTUBE:END -->
