@@ -1,4 +1,4 @@
-## Hi There I'm ![Naseem](https://www.facebook.com/LetsProgramIt)<img src="./util/tenor.gif" width="3%" > <img src="./util/tenor1.gif" width="3%" >
+## Hi There I'm [Naseem!!](https://www.facebook.com/LetsProgramIt)<img src="./util/tenor.gif" width="3%" > <img src="./util/tenor1.gif" width="3%" >
 
 <!-- ![img](https://devops.com/wp-content/uploads/2021/03/canstockphoto2660864.jpg) -->
 
@@ -13,37 +13,37 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 
 ### Connect With Me:
-[<img align="left" alt="YouTube" width="27px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="LinkedIn" width="27px"  src="./util/linkedInlogo.png" />](https://www.linkedin.com/in/naseem-khan-4167b21b2/)
-[<img align="left" alt="Twitter" width="27px"  src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />](https://twitter.com/naseem44140779)
-[<img align="left" alt="Facebook" width="27px"  src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" />](https://www.facebook.com/LetsProgramIt)
-[<img align="left" alt="Instagram" width="27px"  src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />](https://www.instagram.com/lets_program_it/)
-[<img align="left" alt="Dev" width="27px"  src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />](https://dev.to/naseemkhan7021)
+[<img align="left" alt="YouTube" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="LinkedIn" width="20px"  src="./util/linkedInlogo.png" />](https://www.linkedin.com/in/naseem-khan-4167b21b2/)
+[<img align="left" alt="Twitter" width="20px"  src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />](https://twitter.com/naseem44140779)
+[<img align="left" alt="Facebook" width="20px"  src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" />](https://www.facebook.com/LetsProgramIt)
+[<img align="left" alt="Instagram" width="20px"  src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />](https://www.instagram.com/lets_program_it/)
+[<img align="left" alt="Dev" width="20px"  src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />](https://dev.to/naseemkhan7021)
 
 <br/>
 <br/>
 
 ### ⚙ Languages & Tools:
-[<img align="left" alt="VS" width="27px"  src="./util/VS.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="pycharm" width="27px"  src="./util/pyCh.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="anacoda" width="27px"  src="./util/anacoda.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="python" width="27px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="javaScript" width="27px"  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="php" width="46px" object-fit="cover" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="html" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="css" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="VS" width="20px"  src="./util/VS.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="pycharm" width="20px"  src="./util/pyCh.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="anacoda" width="20px"  src="./util/anacoda.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="python" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="javaScript" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="php" width="30px" object-fit="cover" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="html" width="20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="css" width="20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
 
 <br/>
 <br/>
 
-[<img align="left" alt="node" width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="npm" width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="react" width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="mongoDB" width="30px"  src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="sql" width="30px"  src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="git" width="30px"  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="gitHub" width="30px"  src="https://image.flaticon.com/icons/png/512/25/25231.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="gitlab" width="30px"  src="https://www.devopsschool.com/assets/assets1/images/courses/gitlab-training.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="node" width="25px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="npm" width="25px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="react" width="25px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="mongoDB" width="25px"  src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="sql" width="25px"  src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="git" width="20px"  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="gitHub" width="20px"  src="https://image.flaticon.com/icons/png/512/25/25231.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="gitlab" width="20px"  src="https://www.devopsschool.com/assets/assets1/images/courses/gitlab-training.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
 
 <br/>
 <br/>
