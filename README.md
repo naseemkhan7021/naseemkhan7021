@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [अपने पीसी/लैपटॉप का configuration कैसे पता करें || How to find the configuration of your PC/Laptop 🚀](https://www.youtube.com/watch?v=TXDzHtJ4LeM)
 - [How to Download Windows 10 ISO 📀💽 File and Create Bootable Pendrive 💻🖥 ❓](https://www.youtube.com/watch?v=BY49tltv8Vg)
 - [अपनी महत्वपूर्ण और private 🔏 फ़ाइल 📁 छुपाएं || Hide your important and private 🔏  file 📁](https://www.youtube.com/watch?v=0gTwGIm8aIk)
 - [अपने कंप्यूटर से किसी भी सॉफ़्टवेयर को अनइंस्टॉल करें || Uninstall any software from your computer](https://www.youtube.com/watch?v=RyVaO75d0Yw)
 - [अपने कंप्यूटर से Network को Disable या enable करें || Disable or enable the network from your PC](https://www.youtube.com/watch?v=yVJnFuzbDiM)
-- [Must Know this this shortcuts keys || PC users के लिए बहुत ही important shortcut keys | 😎🚀](https://www.youtube.com/watch?v=ToSK7h-glMM)
 <!-- YOUTUBE:END -->
 
 <br/>
