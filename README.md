@@ -1,4 +1,4 @@
-## Hi There I'm [Naseem!!](https://www.facebook.com/LetsProgramIt)<img src="./util/tenor.gif" width="3%" > <img src="./util/tenor1.gif" width="3%" >
+## Hi There I'm [Naseem!!](https://www.facebook.com/LetsProgramIt)<img src="./assets/tenor.gif" width="3%" > <img src="./assets/tenor1.gif" width="3%" >
 
 <!-- ![img](https://devops.com/wp-content/uploads/2021/03/canstockphoto2660864.jpg) -->
 
@@ -14,7 +14,7 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### Connect With Me:
 [<img align="left" alt="YouTube" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="LinkedIn" width="20px"  src="./util/linkedInlogo.png" />](https://www.linkedin.com/in/naseem-khan-4167b21b2/)
+[<img align="left" alt="LinkedIn" width="20px"  src="./assets/linkedInlogo.png" />](https://www.linkedin.com/in/naseem-khan-4167b21b2/)
 [<img align="left" alt="Twitter" width="20px"  src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />](https://twitter.com/naseem44140779)
 [<img align="left" alt="Facebook" width="20px"  src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" />](https://www.facebook.com/LetsProgramIt)
 [<img align="left" alt="Instagram" width="20px"  src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />](https://www.instagram.com/lets_program_it/)
@@ -24,9 +24,9 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 <br/>
 
 ### ⚙ Languages & Tools:
-[<img align="left" alt="VS" width="20px"  src="./util/VS.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="pycharm" width="20px"  src="./util/pyCh.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
-[<img align="left" alt="anacoda" width="20px"  src="./util/anacoda.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="VS" width="20px"  src="./assets/VS.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="pycharm" width="20px"  src="./assets/pyCh.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
+[<img align="left" alt="anacoda" width="20px"  src="./assets/anacoda.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
 [<img align="left" alt="python" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
 [<img align="left" alt="javaScript" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
 [<img align="left" alt="php" width="30px" object-fit="cover" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />](https://www.youtube.com/channel/UCaeD39ucT0rKFwV8VybdL2A)
@@ -63,6 +63,7 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 <br/>
 
 ---
+
 ![Naseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naseemkhan7021&count_private=true&show_icons=true&hide_border=true)
 
 
