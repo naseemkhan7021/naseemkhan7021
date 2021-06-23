@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [Top 3 Typing Practice Software || Write 50+ wpm(word per min.) 😯 by using this software🚀.](https://www.youtube.com/watch?v=HO66QQzw7bI)
 - [iLLEGAL Software !! iss problem ko solve kaise kare ???? 🤔](https://www.youtube.com/watch?v=E4qFJhMpEM4)
 - [Download, Install and Crack CorelDraw 2021 😮🚀😎](https://www.youtube.com/watch?v=AAzLCh25pAo)
 - [How To Download and install AutoCAD 2020 || Activate free for life time 🚀😎](https://www.youtube.com/watch?v=xL9WEc9E-4g)
 - [4 Most Useful and Powerful 💪Cloud ☁ Storage You Should Be Using | आपको इसका उपयोग करना चाहिए।](https://www.youtube.com/watch?v=jDt3Qcs_ymI)
-- [अपने पीसी/लैपटॉप का configuration कैसे पता करें || How to find the configuration of your PC/Laptop 🚀](https://www.youtube.com/watch?v=TXDzHtJ4LeM)
 <!-- YOUTUBE:END -->
 
 <br/>
