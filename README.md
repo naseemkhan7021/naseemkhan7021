@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [Customize your Virtual Machine(VM) Hardware as per you requirement |•| Make Your VM Faster 🚀🚀😎](https://www.youtube.com/watch?v=ViJAylvAXEE)
 - [Share files and folders to local PC to Virtual Pc • in just a seconds 🚀😎](https://www.youtube.com/watch?v=dUpJXTAuRbg)
 - [Create Windows 10 Virtual Machine • एक PC  में दो OS कैसे Use करे ?](https://www.youtube.com/watch?v=IWPAoCDlOkU)
 - [VMware 16.1.2 workstation 2021 || Download Install and Activate  😎🚀](https://www.youtube.com/watch?v=kaFUwDtI520)
 - [Top 3 Typing Practice Software || Write 50+ wpm(word per min.) 😯 by using this software🚀.](https://www.youtube.com/watch?v=HO66QQzw7bI)
-- [iLLEGAL Software !! iss problem ko solve kaise kare ???? 🤔](https://www.youtube.com/watch?v=E4qFJhMpEM4)
 <!-- YOUTUBE:END -->
 
 <br/>
