@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lets start with VSCode (2021) all easy steps | Beginner friendly](https://www.youtube.com/watch?v=vKSfODAxj_w)
 - [Install Kali Linux 2021.2   in VMWare workstation I Use Kali Linux feel like hacker 👩‍💻👩‍💻](https://www.youtube.com/watch?v=CSOszCXhJTY)
 - [Control your computer from your mobile | Download and use AnyDesk 😎😯](https://www.youtube.com/watch?v=49_U7fXSf3U)
 - [How to Increase your Virtual Machine (VM) memory (RAM)](https://www.youtube.com/watch?v=hH24xG_HmtI)
 - [Customize your Virtual Machine(VM) Hardware as per you requirement |•| Make Your VM Faster 🚀🚀😎](https://www.youtube.com/watch?v=ViJAylvAXEE)
-- [Share files and folders to local PC to Virtual Pc • in just a seconds 🚀😎](https://www.youtube.com/watch?v=dUpJXTAuRbg)
 <!-- YOUTUBE:END -->
 
 <br/>
