@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [Download install and setup ** Python ** in computer and VScode | Python 3.9.6 ( 2021 ) latest.](https://www.youtube.com/watch?v=5OCBDHIbcjQ)
 - [VScode User Snippets | Create Shortcuts | Visual studio July 2021 (1.59 version) | Beginners frdly 😊](https://www.youtube.com/watch?v=H2HbYVoo0BY)
 - [Visual studio code ( July 2021 1.59 version ) latest  | how to use VScode | Beginners friendly](https://www.youtube.com/watch?v=-z4S7Qkiey4)
 - [Setup Git as a default terminal in VScode | VSCode July 2021(1.59)](https://www.youtube.com/watch?v=3Wg6rK9ieBE)
 - [Download and install Git 2021 (version control) | Initial Setup | All easy steps](https://www.youtube.com/watch?v=7PWtbCmrBBk)
-- [Lets start with VSCode (2021) all easy steps | Beginner friendly](https://www.youtube.com/watch?v=vKSfODAxj_w)
 <!-- YOUTUBE:END -->
 
 <br/>
