@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [Adobe Premiere Pro CC 2020 | Free for life time | I downloaded it for the first time](https://www.youtube.com/watch?v=wfvIdZXyVEo)
 - [MongoDB 5.0.2 version 2021 latest | Download Setup and Install | For Beginner](https://www.youtube.com/watch?v=1uyq1lSkkyU)
 - [Xampp Error | port 443 in use by another program](https://www.youtube.com/watch?v=RNwQVRBicXI)
 - [Download Install and Setup Xampp ( latest vrs ) server | Run Apache and PHPMyAdmin in your computer](https://www.youtube.com/watch?v=WEVm2Ijr770)
 - [Test your API without Postman | use VScode extension | save your memory 😀](https://www.youtube.com/watch?v=xgIjsbQx7PU)
-- [Download install and how to use Postman | API testing | Postman (2021 latest version )](https://www.youtube.com/watch?v=U-frnrNesn0)
 <!-- YOUTUBE:END -->
 
 <br/>
