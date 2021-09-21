@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
-- [Setup IDE And Live Server For Coding || HTML & CSS Complete Beginner to Advance tutorial हिंदी में](https://www.youtube.com/watch?v=0DyG5S1QeTU)
+- [#2 Python Extension & Verify || Python Beginner to Advance full Hindi tutorial | With Exercise](https://www.youtube.com/watch?v=Sr2KWFtwq-0)
+- [#2 Setup IDE And Live Server For Coding | HTML & CSS Complete Beginner to Advance tutorial हिंदी में](https://www.youtube.com/watch?v=0DyG5S1QeTU)
 - [#1 Python Introduction || Python Beginner to Advance full Hindi tutorial | With Exercise (हिंदी में)](https://www.youtube.com/watch?v=yk2ZWn0qAHU)
 - [#1 HTML & CSS Introduction || HTML & CSS Complete Beginner to Advance tutorial in Hindi( हिंदी में )](https://www.youtube.com/watch?v=VVG7GLaV6_0)
 - [Windows 11 | Download | install | First look 👀👀](https://www.youtube.com/watch?v=dekrsOEaDjA)
-- [Adobe Premiere Pro CC 2020 | Free for life time | I downloaded it for the first time](https://www.youtube.com/watch?v=wfvIdZXyVEo)
 <!-- YOUTUBE:END -->
 
 <br/>
