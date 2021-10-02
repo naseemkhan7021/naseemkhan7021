@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [#4 Script Mode &  Interactive mode | Python Beginner to Advance full Hindi tutorial | With Exercise](https://www.youtube.com/watch?v=q5LGwI0mjGs)
 - [#3 What is Pip and Module in Python | Python Beginner to Advance full Hindi tutorial | With Exercise](https://www.youtube.com/watch?v=R-VmO2hrMo0)
 - [#5 Comment | HTML & CSS Complete Beginner to Advance tutorial हिंदी में](https://www.youtube.com/watch?v=3m1TGSiRO8A)
 - [#4 Import External file | HTML & CSS Complete Beginner to Advance tutorial हिंदी में](https://www.youtube.com/watch?v=swup-tsqwU4)
 - [#3 meta tag | what is metaData | HTML & CSS Complete Beginner to Advance tutorial हिंदी में](https://www.youtube.com/watch?v=p0TRCwaAVq8)
-- [#2 Python Extension & Verify || Python Beginner to Advance full Hindi tutorial | With Exercise](https://www.youtube.com/watch?v=Sr2KWFtwq-0)
 <!-- YOUTUBE:END -->
 
 <br/>
