@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
-- [Import Bootstrap ,TailwindCSS or any other Libraries using CDN | HTML & CSS tutorial in Hindi 👩‍💻👍👍](https://www.youtube.com/watch?v=OwFy7IjbSUs)
+- [GitHub1s and GitHub.dev , #shorts](https://www.youtube.com/watch?v=4bcf-LtClgo)
+- [Container, Heading and paragraph || HTML & CSS tutorial in Hindi](https://www.youtube.com/watch?v=IRwQHbhL6qo)
+- [#6 Import Bootstrap ,TailwindCSS or any other Libraries using CDN | HTML & CSS tutorial in Hindi 👩‍💻](https://www.youtube.com/watch?v=OwFy7IjbSUs)
 - [#6 Comments || Python Beginner to Advance full Hindi tutorial | With Exercise](https://www.youtube.com/watch?v=pw_O4BP90mQ)
 - [#5 First Python Program || Python Beginner to Advance full Hindi tutorial | With Exercise](https://www.youtube.com/watch?v=gnhgIsh1hu0)
-- [#4 Script Mode &  Interactive mode | Python Beginner to Advance full Hindi tutorial | With Exercise](https://www.youtube.com/watch?v=q5LGwI0mjGs)
-- [#3 What is Pip and Module in Python | Python Beginner to Advance full Hindi tutorial | With Exercise](https://www.youtube.com/watch?v=R-VmO2hrMo0)
 <!-- YOUTUBE:END -->
 
 <br/>
