@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [mongodb tutorial #shorts link :-   #technology #datascience #programming #coding](https://www.youtube.com/watch?v=YsCkse-ex4M)
 - [Python Variable (Rules and Definition ) || Python Beginner to Advance full Hindi tutorial | With Exs](https://www.youtube.com/watch?v=M5D6YHT_v2o)
 - [Run Mongo Shell | run show dbs, use dbName, Show collections, db.creatCollection | Hindi tutorial👩‍💻](https://www.youtube.com/watch?v=rpYFQSHZa5I)
 - [#8 IMG, Video and anchor tag ||  HTML & CSS tutorial in Hind](https://www.youtube.com/watch?v=W58BzQKFS-o)
 - [GitHub1s and GitHub.dev :- #technology #coder #programming #shorts #shortvideo #softwaredeveloper](https://www.youtube.com/watch?v=xU1QGcROhMc)
-- [GitHub1s and GitHub.dev , #shorts](https://www.youtube.com/watch?v=4bcf-LtClgo)
 <!-- YOUTUBE:END -->
 
 <br/>
