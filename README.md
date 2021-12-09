@@ -52,11 +52,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [Number , String and Boolean in Python 3.9 | latest version |](https://www.youtube.com/watch?v=-sHhbT2sSfg)
 - [Drop/Delete | Mongo Shell command | MongoDB latest version 5.0.2 | हिंदी में](https://www.youtube.com/watch?v=Kp7Ky87ihAc)
 - [InsertOne , InserMany and find | Mongo Shell command | MongoDB latest version 5.0.2 | हिंदी में](https://www.youtube.com/watch?v=11nHSW5x1o8)
 - [mongodb tutorial #shorts link :-   #technology #datascience #programming #coding](https://www.youtube.com/watch?v=YsCkse-ex4M)
 - [Python Variable &lpar;Rules and Definition &rpar; || Python Beginner to Advance full Hindi tutorial | With Exs](https://www.youtube.com/watch?v=M5D6YHT_v2o)
-- [Run Mongo Shell | run show dbs, use dbName, Show collections, db.creatCollection | Hindi tutorial👩‍💻](https://www.youtube.com/watch?v=rpYFQSHZa5I)
 <!-- YOUTUBE:END -->
 
 <br/>
