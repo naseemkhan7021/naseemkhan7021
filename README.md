@@ -64,11 +64,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [Logic - Find big Value &lpar;Element&rpar; from any type of list &lpar; nested or normal &rpar; | Python 3.9](https://www.youtube.com/watch?v=77gwF-Qt8HY)
 - [Logic - Sum of all numbers | Python 3.9](https://www.youtube.com/watch?v=0GAHD1rAvWA)
 - [Number , String and Boolean in Python 3.9 | latest version |](https://www.youtube.com/watch?v=-sHhbT2sSfg)
 - [Drop/Delete | Mongo Shell command | MongoDB latest version 5.0.2 | हिंदी में](https://www.youtube.com/watch?v=Kp7Ky87ihAc)
 - [InsertOne , InserMany and find | Mongo Shell command | MongoDB latest version 5.0.2 | हिंदी में](https://www.youtube.com/watch?v=11nHSW5x1o8)
-- [mongodb tutorial #shorts link :-   #technology #datascience #programming #coding](https://www.youtube.com/watch?v=YsCkse-ex4M)
 <!-- YOUTUBE:END -->
 
 <br/>
