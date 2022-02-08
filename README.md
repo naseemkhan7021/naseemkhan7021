@@ -1,11 +1,11 @@
 <!-- ![Let'sProgrammIt](assets/youtubeBanner.png) -->
-<div align="center">
- <img src="assets/youtubeBanner.png" alt="Naseem" />
-</div>
+<!-- <div align="center">
+ <img src="assets/youtubeBanner.png" alt="Naseem"  />
+</div> -->
 
 <div align="center">
 
-## Hi There I'm [Naseem!!](https://www.linkedin.com/in/naseem-khan-4167b21b2/)<img src="./assets/tenor.gif" width="3%" > <img src="./assets/tenor1.gif" alt="Naseem" width="3%" >
+# Hi There I'm [Naseem !!](https://www.linkedin.com/in/naseem-khan-4167b21b2/)<img src="./assets/tenor.gif" width="3%" > <img src="./assets/tenor1.gif" alt="Naseem" width="3%" >
 </div>
 
 <!-- ![img](https://devops.com/wp-content/uploads/2021/03/canstockphoto2660864.jpg) -->
