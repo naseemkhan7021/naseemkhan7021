@@ -23,9 +23,9 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 ![Visitor Count](https://profile-counter.glitch.me/{naseemkhan7021}/count.svg)
 
 ### Connect With Me:
-![Facebook](https://img.shields.io/badge/-Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Instagram-Instagram.svg?link=http://Github.com&link=http://youtube.com&logo=Instagram&color=white)
-![](https://img.shields.io/badge/Linkedin-Linkedin.svg?link=http://Github.com&link=http://youtube.com&logo=Linkedin&color=blue)
+![Facebook](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Instagram-Instagram.svg?url=https://www.instagram.com/lets_program_it&logo=Instagram&color=white)
+![](https://img.shields.io/badge/Linkedin-Linkedin.svg?url=https://www.linkedin.com/in/naseem-khan-4167b21b2&logo=Linkedin&color=blue)
 ![](https://img.shields.io/youtube/channel/subscribers/UCaeD39ucT0rKFwV8VybdL2A?&style=social)
 <br/>
 
