@@ -23,9 +23,10 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 ![Visitor Count](https://profile-counter.glitch.me/{naseemkhan7021}/count.svg)
 
 ### Connect With Me:
-![Facebook](https://img.shields.io/badge/Social-Facebook.svg?style=flat&logo=Facebook&logoColor=white&color=61DAFB)
-![](https://img.shields.io/youtube/channel/subscribers/UCaeD39ucT0rKFwV8VybdL2A?color=green&style=social)
-
+![Facebook](https://img.shields.io/badge/-Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Instagram-Instagram.svg?link=http://Github.com&link=http://youtube.com&logo=Instagram&color=white)
+![](https://img.shields.io/badge/Linkedin-Linkedin.svg?link=http://Github.com&link=http://youtube.com&logo=Linkedin&color=blue)
+![](https://img.shields.io/youtube/channel/subscribers/UCaeD39ucT0rKFwV8VybdL2A?&style=social)
 <br/>
 
 ### ⚙ Languages, Framworks & Tools:
@@ -36,15 +37,15 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 ![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&color=%23217346)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=005571)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=%2361DAFB)
-<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&color=%23593d88) -->
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&color=%23593d88)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=red)
 ![](https://img.shields.io/badge/Code-Livewire-informational?style=flat&logo=livewire&logoColor=FF3366&color=FF3366)
 ![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=JSON%20web%20tokens&logoColor=black&color=black)
 ![](https://img.shields.io/badge/Code-API-informational?style=flat&logo=fastapi&logoColor=005571&color=005571)
 
 ![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=mysql&logoColor=green&color=green)
-![](https://img.shields.io/badge/DB-sqlite-informational?style=flat&logo=sqlite&logoColor=%2307405e&color=%2307405e)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=%234ea94b&color=%234ea94b)
+<!-- ![](https://img.shields.io/badge/DB-sqlite-informational?style=flat&logo=sqlite&logoColor=%2307405e&color=%2307405e) -->
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=%231572B6&color=%231572B6)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=%23593d88&color=%23593d88)
@@ -55,14 +56,14 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 ![](https://img.shields.io/badge/Toole-npm-informational?style=flat&logo=npm&color=ff1709)
 ![](https://img.shields.io/badge/Toole-git-informational?style=flat&logo=git&logoColor=%23E34F26&color=%23E34F26)
 ![](https://img.shields.io/badge/Toole-github-informational?style=flat&logo=github&logoColor=black&color=black)
-![](https://img.shields.io/badge/Toole-gitlab-informational?style=flat&logo=gitlab&6&color=%23E34F26)
-![](https://img.shields.io/badge/Toole-bitbucket-informational?style=flat&logo=bitbucket&logoColor=%230047B3&color=%230047B3)
+<!-- ![](https://img.shields.io/badge/Toole-gitlab-informational?style=flat&logo=gitlab&6&color=%23E34F26) -->
+<!-- ![](https://img.shields.io/badge/Toole-bitbucket-informational?style=flat&logo=bitbucket&logoColor=%230047B3&color=%230047B3) -->
 
 ![](https://img.shields.io/badge/Host-firebase-informational?style=flat&logo=firebase&color=%23FF9900)
 ![](https://img.shields.io/badge/Host-digitalocean-informational?style=flat&logo=digitalocean&color=%230167ff)
 ![](https://img.shields.io/badge/Host-heroku-informational?style=flat&logo=heroku&logoColor=%23430098&color=%23430098)
-![](https://img.shields.io/badge/Host-netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Host-vercel-informational?style=flat&logo=vercel&logoColor=black&color=black)
+<!-- ![](https://img.shields.io/badge/Host-netlify-informational?style=flat&logo=netlify&color=00C7B7) -->
+<!-- ![](https://img.shields.io/badge/Host-vercel-informational?style=flat&logo=vercel&logoColor=black&color=black) -->
 
 
 
