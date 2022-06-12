@@ -73,11 +73,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to setup Visual Studio code snippets || Code Shortcut](https://www.youtube.com/watch?v=mxmO_Cqrfxc)
 - [Git Bash Customize prompt || prompt with multi colors and symbols and Time](https://www.youtube.com/watch?v=LYfG8YUxH88)
 - [Customize `CMD prompt` according to your needs || Make cool CMD](https://www.youtube.com/watch?v=XKvCOLPPXkI)
 - [How to use Linux all command in windows || sudo apt install 💰](https://www.youtube.com/watch?v=62AUf92Ij0A)
 - [GitHub API Help | Explore GitHub API](https://www.youtube.com/watch?v=OWe_uXw8l6E)
-- [All essential software for developers and normal user in one place || Top 10 sites.](https://www.youtube.com/watch?v=BacLafH9D2s)
 <!-- YOUTUBE:END -->
 
 <br/>
