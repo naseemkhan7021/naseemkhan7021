@@ -73,11 +73,11 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 
 ### 📺 New YouTube Videos
 <!-- YOUTUBE:START -->
-- [#1 initialize git project in VScode | git init](https://www.youtube.com/watch?v=9GZFrFAtQiU)
+- [Create branch and merge it | Git Basic to Advance Tutorial](https://www.youtube.com/watch?v=7fEgEgZxiOY)
+- [#1 initialize git project in VScode | Git Basic to Advanced Tutorial](https://www.youtube.com/watch?v=9GZFrFAtQiU)
 - [Create NodeJs, ExpressJs Hello world API | Quick start](https://www.youtube.com/watch?v=7NL9-oMFCBQ)
 - [Top VS Code Extension for Git || Make your easier in VS Code](https://www.youtube.com/watch?v=S2ZIchzTk2c)
 - [How to setup Visual Studio code snippets || Code Shortcut](https://www.youtube.com/watch?v=mxmO_Cqrfxc)
-- [Git Bash Customize prompt || prompt with multi colors and symbols and Time](https://www.youtube.com/watch?v=LYfG8YUxH88)
 <!-- YOUTUBE:END -->
 
 <br/>
