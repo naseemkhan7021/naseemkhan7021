@@ -77,13 +77,3 @@ My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/
 - [#2 Create branch and merge it | Git Basic to Advance Tutorial](https://www.youtube.com/watch?v=7fEgEgZxiOY)
 - [#1 initialize git project in VScode | Git Basic to Advanced Tutorial](https://www.youtube.com/watch?v=9GZFrFAtQiU)
 <!-- YOUTUBE:END -->
-
-<br/>
-<br/>
-
----
-
-![Naseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naseemkhan7021&count_private=true&show_icons=true&hide_border=true)
--
-
-
