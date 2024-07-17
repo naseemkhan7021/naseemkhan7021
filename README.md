@@ -13,8 +13,8 @@
 <!-- <img src="https://devops.com/wp-content/uploads/2021/03/canstockphoto2660864.jpg" width="100%" height="40%"> -->
 
 My name is Naseem Khan and i am from [Mumbai](https://www.google.com/maps/d/u/0/viewer?msa=0&ie=UTF8&t=h&vpsrc=6&ll=18.980328791460895%2C73.01254642410944&spn=11.50114%2C21.621094&z=12&source=embed&mid=1DfFcv3jAM8NAeioBjW_CHwtKL3A), [India](https://www.google.com/maps/d/u/0/viewer?msa=0&dg=feature&mid=1DBhwGb5W_2Vu5gPLMN_IsT7_thE&ll=23.543844826108998%2C84.22668450000002&z=5).
-- 👩‍💻💵 I'm currenty learning Docker.
-- ✨👷‍♂️ I'm currently working on [websites.co.in](https://www.websites.co.in/) as Full-Stack developer.
+- 👩‍💻💵 I'm currenty learning Docker,CI/CD,LLM.
+- ✨👷‍♂️ I'm currently working at [pay1](https://www.pay1.in/) as Software Developer Engineer.
 - 🆕🗽 I'm enthusiasm to learn new skills.
 
 ### Visitor Count 
